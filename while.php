@@ -53,7 +53,6 @@ while($pre <= $n){
     echo $m." X ".$pre." = ".($m * $pre);
     echo "<br>";
     $pre++;
-
 }
 
 
